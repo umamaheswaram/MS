@@ -48,6 +48,17 @@ NTILE():
 
 ![image](https://github.com/user-attachments/assets/2d57a5b5-23ac-4b27-88ef-3d2865abfa05)
 
+CUME_DIST():
+
+![image](https://github.com/user-attachments/assets/67bfc30d-d308-457f-bb19-e9689644f2f9)
+
+PERCENT_RANK():
+![image](https://github.com/user-attachments/assets/4d5815e5-e341-4066-9ee6-281bc0a3f6a1)
+
+![image](https://github.com/user-attachments/assets/b6b5ef93-b9c3-476e-a3d7-29d0dcbf3e3d)
+
+
+
 
 
 
